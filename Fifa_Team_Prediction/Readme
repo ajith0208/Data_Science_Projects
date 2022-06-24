@@ -1,0 +1,6 @@
+FIFA dataset 2021 Introduction to the Data set for this project, FIFA dataset has 
+been chosen which has 18k records. The data set has 90+ columns which covers all 
+the attributes starting from Player id, player name to overall ratings for that player. 
+Players from all over the globe are included in this data set. Club and country logos 
+for respective players are also included. Columns such as value, wage, contract 
+valid willing to target any players.
